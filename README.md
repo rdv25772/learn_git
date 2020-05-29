@@ -1,2 +1,4 @@
 # learn_git
 Learing Git Coursera project
+
+I am editing the README file. Adding some more details about the project description.
